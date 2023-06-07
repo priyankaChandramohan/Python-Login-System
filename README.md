@@ -1,6 +1,6 @@
 # Registration and Login System
 
-This project implements a simple registration and login system using Python. It allows users to register with a valid email and password, and then login with their credentials. The user data is stored in a text file. Read the Task file to find the assignment question.
+This project implements a simple registration and login system using Python. It allows users to register with a valid email and password, and then login with their credentials. The user data is stored in a text file. Read the  [Project Task](https://github.com/priyankaChandramohan/Python-Login-System/blob/main/Project%20task.md) file to find the assignment question.
 
 ## Features
 
@@ -22,8 +22,8 @@ This project implements a simple registration and login system using Python. It 
 
 ## File Structure
 
-- `registration.py`: The main Python script that implements the registration and login system.
-- `users.txt`: The text file that stores the user data.
+-  [`registration.py`](https://github.com/priyankaChandramohan/Python-Login-System/blob/main/registration.py): The main Python script that implements the registration and login system.
+- [`users.txt`](https://github.com/priyankaChandramohan/Python-Login-System/blob/main/users.txt): The text file that stores the user data.
 
 ## Contributing
 
