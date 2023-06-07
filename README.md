@@ -29,4 +29,12 @@ This project implements a simple registration and login system using Python. It 
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
+## Explanation to the project:
+
+- The validate_email() function uses regular expressions to validate the email format based on the given pattern.
+- The validate_password() function checks if the password meets the specified requirements using regular expressions.
+- The register() function prompts the user to enter a username, email, and password. It validates the email and password formats and appends the user data to the "users.txt" file if they are valid.
+- The login() function prompts the user to enter a username and password. It checks if the username and password match any user data stored in the "users.txt" file and provides appropriate login status messages.
+- The forgot_password() function allows the user to reset their password by entering a new password. It updates the password
+
 
